@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>983493152315-bbr1jq2g4mm0qelpbrceoil7j418oe5j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.983493152315-bbr1jq2g4mm0qelpbrceoil7j418oe5j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>983493152315-kkud2cb5q2cgo5u0pa0v5bcppv8iq9vk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRv356xT4aIoWr27JjX9vTZas8utjIf-k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>983493152315</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.young.Brandiary</string>
+	<key>PROJECT_ID</key>
+	<string>brandiary-fad4e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brandiary-fad4e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:983493152315:ios:738b0a2ec020ff4e</string>
+	<key>DATABASE_URL</key>
+	<string>https://brandiary-fad4e.firebaseio.com</string>
+</dict>
+</plist>
