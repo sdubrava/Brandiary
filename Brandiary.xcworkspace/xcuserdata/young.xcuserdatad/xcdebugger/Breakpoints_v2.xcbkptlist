@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "182828D2-4858-4B46-94A3-C3B94D8CBBAE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04E2E8BF-BDAF-4350-A547-A56CEBCA9360"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Brandiary/Setting/PostsComments.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B15D60A9-7F28-48BB-A92A-7C1C2BE894D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Brandiary/Cells/Mypagemain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "Mypagemain"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B15D60A9-7F28-48BB-A92A-7C1C2BE894D0 - 85212cd6c33d7ca1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brandiary.Mypagemain.vc.getter : Brandiary.MypageViewController"
+                  moduleName = "Brandiary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/young/Desktop/Brandiary/Brandiary/Cells/Mypagemain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "B15D60A9-7F28-48BB-A92A-7C1C2BE894D0 - 7a11638c703734d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brandiary.Mypagemain.vc.setter : Brandiary.MypageViewController"
+                  moduleName = "Brandiary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/young/Desktop/Brandiary/Brandiary/Cells/Mypagemain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "B15D60A9-7F28-48BB-A92A-7C1C2BE894D0 - 402a675bb6e0e2a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brandiary.Mypagemain.vc.modify : Brandiary.MypageViewController"
+                  moduleName = "Brandiary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/young/Desktop/Brandiary/Brandiary/Cells/Mypagemain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B15D60A9-7F28-48BB-A92A-7C1C2BE894D0 - 99ccbd4e65ef95f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brandiary.Mypagemain.vc.modify : Brandiary.MypageViewController with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Brandiary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/young/Desktop/Brandiary/Brandiary/Cells/Mypagemain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B15D60A9-7F28-48BB-A92A-7C1C2BE894D0 - 5a139f96422bad8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brandiary.Mypagemain.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Brandiary.Mypagemain"
+                  moduleName = "Brandiary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/young/Desktop/Brandiary/Brandiary/Cells/Mypagemain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "B15D60A9-7F28-48BB-A92A-7C1C2BE894D0 - 96ee49bf2811260"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brandiary.Mypagemain.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Brandiary.Mypagemain&gt;"
+                  moduleName = "Brandiary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/young/Desktop/Brandiary/Brandiary/Cells/Mypagemain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
